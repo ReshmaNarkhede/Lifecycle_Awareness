@@ -1,2 +1,2 @@
-# Lifecycle_Awareness
-demo project to understand life cycle awareness which is one of jatpack component.
+# LifeCycle-Awareness-Jetpack
+Small demo project to learn life cycle awareness of which is one of the android jetpack component.
